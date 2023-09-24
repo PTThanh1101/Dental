@@ -1,0 +1,3 @@
+﻿GiaScrapeTartar=3000
+GiaTeethWhitening=5000
+GiaFillings=1000
